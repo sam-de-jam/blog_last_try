@@ -1,0 +1,27 @@
+#SQL Basics for understanding#
+SQl can be an easy language to learn but some times its hard to understand because so much of it happens under the  hood unlike python or R I will explan breafly the difrent basic comands and how they efect data sets.
+
+##Rows and columns##
+data is frequently divided in to roes ad=nd colums in SQl the comand to chose someting is Select and it chooses columns by colum names, the rows selected can be eddited later i the comand to match our intented groupe. if we had 3 colums names "movie_title" "movie rating" and 'death_in_the_movie' in a data sett called Movie_Magic and we wated to know what movies there where in our data base the comand would look like 
+```sql
+SELECT "movie_title" FROM Movie_Magic
+
+```
+this would remove the other columns ("movie_rating", and "death_in_movie") from showing up taking less processing. this is nicce but not particulerly helpfull, lets say i wanted the ratings aswell. my now comand would look varry simuler but it would have 2 "" seporated by a comma after the select comand like so.
+```sql
+SELECT "movie_title", "movie_rating" FROM Movie_Magic
+```
+this would show only movie titles and ther eratings next to oneanother. 
+
+ now lets say we want only good movies or ones that scoreed at leas 3 out of 5 stars.
+
+ now we aer leaving column selections and entering row selection.
+ after our previus code we would add the command where fallowed by the colum we are filtering by ("movie_ratings") and then the inequality we want like this.
+ ```sql
+SELECT "movie_titles", "movie_ratings" FROM Movie_Magic 
+WHERE "movie_ratigns" >=3 
+ ```
+
+ this woudl select only the movies with ratings hier thatn or equil to 3. now we have the rows we want but only the rows that qualify as 3 or greatter.
+
+ in short items between the SELECT and the FROM comands are column titles, and things that come after them are row filters
