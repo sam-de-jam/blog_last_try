@@ -36,10 +36,10 @@ tehan we analsied it.
 -the vareance of revinue in the last 25 years has become more extream
 -the number of directers in recent years looks to be inversly coralated (more analasis needed)
  
-  ## link to websight rotton tomataoes
+## link to websight rotton tomataoes
 
   [rotentomatoes websight](https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now/)
 
-  ## link to github with analasis and data
+## link to github with analasis and data
 
   [github](https://github.com/CNelson2004/Movies_Analysis)
