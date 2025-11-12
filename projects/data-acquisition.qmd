@@ -12,7 +12,9 @@ format:
 
 movies are a hot topic among people and companies, people because they dont want to pay to see garbage and companies because they want more viewwer and beter reviews. with this in mind we took data from disney movies and ran analasis to find if thre was ny high prodicters of ether revenue or reviews,(from criticts for awards, and from audeances for revinue). 
 to d this analasis we first needed data and wanted to colect it leagaly and with out becoming a digital nucance, we fallowed the web sctaping requierments posted on the web sights (\robots) to ensure both where requerments wehre met.
+
 ## Summary
+
 to get the data we first needed a list of movies form disney, we wcraped this form a wiki page, then took our list to a rating websight, we used rottontomatow, and found the patern and frak=nkenstined the Url from the parts needed (name of movie) and the URL form the websight we needed (rotentomatos). after than we inspected teh page to get the sections we need form that and wraped it in a for loop to get it all.
 tehan we analsied it.
 
@@ -35,7 +37,9 @@ tehan we analsied it.
 -the number of directers in recent years looks to be inversly coralated (more analasis needed)
  
   ## link to websight rotton tomataoes
+
   [rotentomatoes websight](https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now/)
 
   ## link to github with analasis and data
+
   [github](https://github.com/CNelson2004/Movies_Analysis)
