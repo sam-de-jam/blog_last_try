@@ -1,4 +1,4 @@
-*SQL Basics for understanding*
+# *SQL Basics for understanding*
 
 SQL can be an easy language to learn, but sometimes it’s hard to understand because so much happens “under the hood,” unlike Python or R. I’ll briefly explain some of the basic commands and how they affect datasets.
 

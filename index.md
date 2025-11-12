@@ -2,9 +2,12 @@
 title: "Welcome to My Data Science Portfolio"
 ---
 
-# Hello! I'm [Your Name] 👋
+# Hello! I'm Scott Merling 👋
 
-Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you'll find projects that demonstrate what I've learned and discovered.
+
+
+Welcome to my data science portfolio! This site shows my journey learning data science and analytics. Here you'll find projects that demonstrate what I've learned and discovered. 
+pleas feel free to reach out if you have any questons! my email is at the botom of the about me page.
 
 ## 🎓 About This Portfolio
 

@@ -1,41 +1,42 @@
 ---
 title: "About Me"
 ---
+<img src="self_pic.png" width="25%">
 
-## Background
 
-Write a brief introduction about yourself here. Include:
+I'm an applied statistics student from BYU with an interest in making the world better through data. My interests include social psychology, product response, and marketing analysis. I hope to one day be a data analyst for Hinge, helping people find their happily ever after. Some of my projects include the dry ice–water reaction and happiness indicators for college students in Provo. 
 
-- Your academic background
-- Your interest in data science
-- Your career goals
-- Any relevant experience or projects
+
 
 ## Education
 
-- **Statistics** - Brigham Young University, 2027
-- **Relevant Coursework**: STAT 340, CS 110
+- **Statistics** - Brigham Young University, expected graduation spring of 2027.
+
+- **Relevant Coursework**: 
+STAT 340 – Statistical Analysis
+CS 110 – Basic Python Coding
+STAT 250 – Basic R Programming
 
 ## Skills & Interests
 
 ### Technical Skills
-- **Programming**: Python
-- **Data Analysis**: Pandas, NumPy
+- **Programming**: Python, R, SQL
+- **Data Analysis**: Pandas, NumPy, R, SQL
 - **Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn
 - **Tools**: Jupyter Notebooks, Git/GitHub
 
 ### Areas of Interest
-- Psychology, human development, storytelling
+- Psychology,  storytelling with data,
 - Science
 
 ## Goals
 
 Describe what you hope to achieve through your data science journey:
 
-- Short-term learning objectives: improve coding skills
-- Long-term career aspirations: find better ways for people to live and prosper
-- Types of problems you want to solve: I want to find ways for people to take control of their lives and become productive and driven through statistical analysis of behavior
+- Short-term learning objectives: improve coding skills and gain releven experiance in data annalitics
+- Long-term career aspirations: find better ways for people to live happy lives and prosper
+- Types of problems you want to solve: market identification, who is interested in _______? what tells me thery are intorested?
 
 ## Contact
 

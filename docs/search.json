@@ -1,29 +1,37 @@
 [
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects Overview",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
-    "crumbs": [
-      "Projects Overview"
-    ]
+    "text": "## Background\nI’m an applied statistics student from BYU with an interest in making the world better through data. My interests include social psychology, product response, and marketing analysis. I hope to one day be a data analyst for Hinge, helping people find their happily ever after. Some of my projects include the dry ice–water reaction and happiness indicators for college students in Provo."
   },
   {
-    "objectID": "projects/index.html#all-projects",
-    "href": "projects/index.html#all-projects",
-    "title": "Projects Overview",
-    "section": "",
-    "text": "Description: Pick a dataset and explore it to discover insights and answer questions.\n\n\n\nDescription: Find an interesting data source, collect the data, and prepare it for analysis.\n\n\n\nDescription: A comprehensive project that shows off my data science skills.",
-    "crumbs": [
-      "Projects Overview"
-    ]
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nStatistics - Brigham Young University, expected graduation spring of 2027.\nRelevant Coursework: STAT 340 – Statistical Analysis CS 110 – Basic Python Coding STAT 250 – Basic R Programming"
   },
   {
-    "objectID": "sql_blog.html",
-    "href": "sql_blog.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\n#SQL Basics for understanding# SQl can be an easy language to learn but some times its hard to understand because so much of it happens under the hood unlike python or R I will explan breafly the difrent basic comands and how they efect data sets.\n##Rows and columns## data is frequently divided in to roes ad=nd colums in SQl the comand to chose someting is Select and it chooses columns by colum names, the rows selected can be eddited later i the comand to match our intented groupe. if we had 3 colums names “movie_title” “movie rating” and ‘death_in_the_movie’ in a data sett called Movie_Magic and we wated to know what movies there where in our data base the comand would look like\nSELECT \"movie_title\" FROM Movie_Magic\nthis would remove the other columns (“movie_rating”, and “death_in_movie”) from showing up taking less processing. this is nicce but not particulerly helpfull, lets say i wanted the ratings aswell. my now comand would look varry simuler but it would have 2 “” seporated by a comma after the select comand like so.\nSELECT \"movie_title\", \"movie_rating\" FROM Movie_Magic\nthis would show only movie titles and ther eratings next to oneanother.\nnow lets say we want only good movies or ones that scoreed at leas 3 out of 5 stars.\nnow we aer leaving column selections and entering row selection. after our previus code we would add the command where fallowed by the colum we are filtering by (“movie_ratings”) and then the inequality we want like this. sql SELECT \"movie_titles\", \"movie_ratings\" FROM Movie_Magic  WHERE \"movie_ratigns\" &gt;=3\nthis woudl select only the movies with ratings hier thatn or equil to 3. now we have the rows we want but only the rows that qualify as 3 or greatter.\nin short items between the SELECT and the FROM comands are column titles, and things that come after them are row filters"
+    "objectID": "about.html#skills-interests",
+    "href": "about.html#skills-interests",
+    "title": "About Me",
+    "section": "Skills & Interests",
+    "text": "Skills & Interests\n\nTechnical Skills\n\nProgramming: Python, R, SQL\nData Analysis: Pandas, NumPy, R, SQL\nVisualization: Matplotlib, Seaborn\nMachine Learning: Scikit-learn\nTools: Jupyter Notebooks, Git/GitHub\n\n\n\nAreas of Interest\n\nPsychology, storytelling with data,\nScience"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About Me",
+    "section": "Goals",
+    "text": "Goals\nDescribe what you hope to achieve through your data science journey:\n\nShort-term learning objectives: improve coding skills and gain releven experiance in data annalitics\nLong-term career aspirations: find better ways for people to live happy lives and prosper\nTypes of problems you want to solve: market identification, who is interested in _______? what tells me thery are intorested?"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: scott.merling1@gmail.com\nGitHub: github.com/your-username\nLinkedIn: linkedin.com/in/your-profile\n\n\nThis portfolio showcases my learning progress and projects completed during my data science studies."
   }
 ]
