@@ -21,20 +21,31 @@ tehan we analsied it.
 ## EDA
 
 477 movies whre used in this analasis, there where some missing values in difrent colums and so some data is exuded form difrent analasises.
+
 -mean audeance rating = 61
+
 -sd audance ratings = 19
+
 -mean critict rating = 62
+
 -sd critict ratings =27
+
 -coralations (audeance score, critict score) = 0.72
+
 -mean revinue = 83668368.59
 
 ## points of intrest:
 
 -R rated movies earn significantly less than any   other movie
+
 -PG-13 movies earn more than any other 
+
 -the critict scores and pupulation score are closer related in the lst 25 years
+
 -the vareance of revinue in the last 25 years has become more extream
+
 -the number of directers in recent years looks to be inversly coralated (more analasis needed)
+
  
 ## link to websight rotton tomataoes
 

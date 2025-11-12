@@ -79,7 +79,7 @@
     "href": "projects/data-acquisition.html#points-of-intrest",
     "title": "Data Acquisition Project",
     "section": "points of intrest:",
-    "text": "points of intrest:\n-R rated movies earn significantly less than any other movie -PG-13 movies earn more than any other -the critict scores and pupulation score are closer related in the lst 25 years -the vareance of revinue in the last 25 years has become more extream -the number of directers in recent years looks to be inversly coralated (more analasis needed)\n## link to websight rotton tomataoes\nrotentomatoes websight\n## link to github with analasis and data\ngithub",
+    "text": "points of intrest:\n-R rated movies earn significantly less than any other movie -PG-13 movies earn more than any other -the critict scores and pupulation score are closer related in the lst 25 years -the vareance of revinue in the last 25 years has become more extream -the number of directers in recent years looks to be inversly coralated (more analasis needed)",
     "crumbs": [
       "Data Acquisition Project"
     ]
@@ -118,6 +118,26 @@
     "title": "Data Acquisition Project",
     "section": "Summary",
     "text": "Summary\nto get the data we first needed a list of movies form disney, we wcraped this form a wiki page, then took our list to a rating websight, we used rottontomatow, and found the patern and frak=nkenstined the Url from the parts needed (name of movie) and the URL form the websight we needed (rotentomatos). after than we inspected teh page to get the sections we need form that and wraped it in a for loop to get it all. tehan we analsied it.",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/data-acquisition.html#link-to-websight-rotton-tomataoes",
+    "href": "projects/data-acquisition.html#link-to-websight-rotton-tomataoes",
+    "title": "Data Acquisition Project",
+    "section": "link to websight rotton tomataoes",
+    "text": "link to websight rotton tomataoes\nrotentomatoes websight",
+    "crumbs": [
+      "Data Acquisition Project"
+    ]
+  },
+  {
+    "objectID": "projects/data-acquisition.html#link-to-github-with-analasis-and-data",
+    "href": "projects/data-acquisition.html#link-to-github-with-analasis-and-data",
+    "title": "Data Acquisition Project",
+    "section": "link to github with analasis and data",
+    "text": "link to github with analasis and data\ngithub",
     "crumbs": [
       "Data Acquisition Project"
     ]
